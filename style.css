@@ -1,0 +1,39 @@
+*{
+}
+.container{
+    width: 100%;
+    margin: auto;
+}
+.left{
+    background-image: url(images/back.png);
+    background-size: 100% 960px;
+    background-repeat: no-repeat;
+    height: 960px;
+    width: 50%;
+    float: left;
+    border-right-width: 0;
+}
+.right{
+    background: indianred;
+    height: 960px;
+    width: 50%;
+    float: left;
+}
+.rightust{
+    width: 250px;
+    height: 10px;
+    margin: 50px 0 0 80px;
+    font-size: 24px;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.rightorta{
+    width: 290px;
+    margin: 185px 0 0 80px;
+    font-size: 17px;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.rightalt{
+    margin: 300px 0 0 80px;
+}
